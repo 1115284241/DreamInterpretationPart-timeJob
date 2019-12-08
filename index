@@ -1,0 +1,66 @@
+项目文档目录
+1、About（项目概况）
+2、Team profile（团队组建与分工）
+3、Investigation（项目前期调研/竞品分析）
+4、Vision（项目愿景）
+5、Product Backlog （产品特性库）
+6、Requirement specification（需求规格说明书）
+6.1 Usecase Diagram（用例图）
+6.2 Use Cases（用例+活动图）
+6.3 Domian Models（领域模型）
+6.4 State Models（状态模型）
+6.5 System Sequence Diagrams（功能模型）
+6.6 Supplementary Requirements（补充需求）
+7、Design（设计说明书）
+7.1 UI design（界面设计）
+7.1.1 Prototype（原型图）
+7.1.2 UI design specification（UI设计说明书）
+7.2 Database design（数据库设计）
+7.3 Interface API design（接口 API 设计）
+7.4 Architecture design（架构设计）
+7.5 Usecase design（用例设计）
+8 、生产规范与指南
+8.1 代码规范
+后端golang代码规范
+后端数据库规范
+前端代码规范
+8.2 REST API 设计规范
+8.3 详细设计（BCE方法）到应用程序框架映射指南
+8.4 部署说明
+前端部署说明
+后端部署说明
+9、成品展示
+9.1 任务发布者短视频
+9.2 任务接受者短视频
+X1 meeting-records
+inception meeting (2019/03/23)
+warmup-meeting (2019/03/31)
+iteration1-meeting1 (2019/04/07)
+iteration1-meeting2 (2019/04/20)
+iteration2-meeting1 (2019/05/12)
+iteration2-meeting2 (2019/06/02)
+deployment-meeting (2019/06/16)
+X2 KANBAN
+X3 Tech/Work Report
+16340311- 原型设计软件MockingBot学习笔记
+16340311 - 微信小程序开发学习笔记
+16340282 - 微信小程序项目实践
+16340269-项目经理的成长历险记
+16340269-关于产品经理的一点心得体会
+16340269-基于go-gin的微信小程序api框架搭建
+16340255-MySQL安装配置及基本操作
+16340255-Swagger简单使用心得
+16340255-Docker工作原理及常用操作
+16340255-Docker构建MySQL镜像并初始化
+16340255-Docker-Compose一键部署
+16340306-小程序callback&promise
+16340306-小程序mvvm
+16340260-微信小程序项目实战
+X4 Final Report
+16340311 - Sherry
+16340282 - CurryYuan
+16340255-gitgiter
+16340260-Dafeng
+16340269-Young
+16340306 - Jeff
+小组分工与贡献率说明
